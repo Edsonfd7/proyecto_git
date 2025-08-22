@@ -1,0 +1,8 @@
+table{
+    border: solid 3px rgb(16, 31, 96);
+    width: 100%;
+}
+td{
+    background-color: blanchedalmond;
+    padding: 30px;
+}
